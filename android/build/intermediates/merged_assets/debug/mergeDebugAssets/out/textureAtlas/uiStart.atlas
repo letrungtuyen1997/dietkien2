@@ -1,0 +1,202 @@
+
+uiStart.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+OngDie
+  rotate: false
+  xy: 548, 560
+  size: 232, 204
+  orig: 232, 204
+  offset: 0, 0
+  index: -1
+bgStart
+  rotate: false
+  xy: 2, 766
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+boss1
+  rotate: false
+  xy: 1026, 433
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+boss1Lock
+  rotate: false
+  xy: 1358, 603
+  size: 158, 161
+  orig: 158, 161
+  offset: 0, 0
+  index: -1
+boss2
+  rotate: false
+  xy: 548, 318
+  size: 172, 240
+  orig: 172, 240
+  offset: 0, 0
+  index: -1
+boss2Lock
+  rotate: false
+  xy: 1698, 895
+  size: 172, 240
+  orig: 172, 240
+  offset: 0, 0
+  index: -1
+boss3
+  rotate: false
+  xy: 548, 113
+  size: 150, 203
+  orig: 150, 203
+  offset: 0, 0
+  index: -1
+boss3Lock
+  rotate: false
+  xy: 874, 391
+  size: 150, 203
+  orig: 150, 203
+  offset: 0, 0
+  index: -1
+boss4
+  rotate: false
+  xy: 984, 596
+  size: 200, 168
+  orig: 200, 168
+  offset: 0, 0
+  index: -1
+boss4Lock
+  rotate: false
+  xy: 782, 596
+  size: 200, 168
+  orig: 200, 168
+  offset: 0, 0
+  index: -1
+boss5
+  rotate: false
+  xy: 1872, 917
+  size: 150, 218
+  orig: 150, 218
+  offset: 0, 0
+  index: -1
+boss5Lock
+  rotate: false
+  xy: 722, 340
+  size: 150, 218
+  orig: 150, 218
+  offset: 0, 0
+  index: -1
+btnClose
+  rotate: false
+  xy: 1446, 832
+  size: 250, 70
+  orig: 250, 70
+  offset: 0, 0
+  index: -1
+btnExit
+  rotate: false
+  xy: 2, 47
+  size: 277, 70
+  orig: 277, 70
+  offset: 0, 0
+  index: -1
+btnRank
+  rotate: false
+  xy: 1186, 446
+  size: 170, 158
+  orig: 170, 158
+  offset: 0, 0
+  index: -1
+btnSetting
+  rotate: false
+  xy: 1358, 485
+  size: 100, 116
+  orig: 100, 116
+  offset: 0, 0
+  index: -1
+btnStart
+  rotate: false
+  xy: 1446, 904
+  size: 250, 231
+  orig: 250, 231
+  offset: 0, 0
+  index: -1
+btnTop
+  rotate: false
+  xy: 1186, 606
+  size: 170, 158
+  orig: 170, 158
+  offset: 0, 0
+  index: -1
+frameRank
+  rotate: false
+  xy: 724, 766
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+frameSetting
+  rotate: false
+  xy: 1446, 1137
+  size: 500, 909
+  orig: 500, 909
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 2, 119
+  size: 544, 645
+  orig: 544, 645
+  offset: 0, 0
+  index: -1
+name1
+  rotate: false
+  xy: 1446, 785
+  size: 196, 45
+  orig: 196, 45
+  offset: 0, 0
+  index: -1
+name2
+  rotate: false
+  xy: 1698, 848
+  size: 171, 45
+  orig: 171, 45
+  offset: 0, 0
+  index: -1
+name3
+  rotate: false
+  xy: 1872, 839
+  size: 174, 76
+  orig: 174, 76
+  offset: 0, 0
+  index: -1
+name4
+  rotate: false
+  xy: 2, 2
+  size: 176, 43
+  orig: 176, 43
+  offset: 0, 0
+  index: -1
+name5
+  rotate: false
+  xy: 281, 72
+  size: 206, 45
+  orig: 206, 45
+  offset: 0, 0
+  index: -1
+turnOff
+  rotate: false
+  xy: 874, 342
+  size: 150, 47
+  orig: 150, 47
+  offset: 0, 0
+  index: -1
+turnOn
+  rotate: false
+  xy: 1026, 385
+  size: 150, 46
+  orig: 150, 46
+  offset: 0, 0
+  index: -1

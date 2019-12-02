@@ -1,0 +1,152 @@
+
+atlasGame.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoDie
+  rotate: false
+  xy: 1781, 314
+  size: 232, 240
+  orig: 232, 240
+  offset: 0, 0
+  index: -1
+BoDie2
+  rotate: false
+  xy: 1234, 575
+  size: 175, 180
+  orig: 175, 180
+  offset: 0, 0
+  index: -1
+DuongDie
+  rotate: false
+  xy: 1409, 35
+  size: 370, 519
+  orig: 370, 519
+  offset: 0, 0
+  index: -1
+KienDie02
+  rotate: false
+  xy: 1057, 564
+  size: 175, 191
+  orig: 175, 191
+  offset: 0, 0
+  index: -1
+OngDie
+  rotate: false
+  xy: 1781, 108
+  size: 232, 204
+  orig: 232, 204
+  offset: 0, 0
+  index: -1
+SungDie1
+  rotate: false
+  xy: 1057, 8
+  size: 350, 546
+  orig: 350, 546
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 757
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 724, 757
+  size: 720, 1280
+  orig: 720, 1280
+  offset: 0, 0
+  index: -1
+frozen
+  rotate: false
+  xy: 1781, 2
+  size: 115, 104
+  orig: 115, 104
+  offset: 0, 0
+  index: -1
+mdBoxit1
+  rotate: false
+  xy: 1446, 1116
+  size: 557, 921
+  orig: 557, 921
+  offset: 0, 0
+  index: -1
+mdBoxit2
+  rotate: false
+  xy: 1446, 556
+  size: 520, 558
+  orig: 520, 558
+  offset: 0, 0
+  index: -1
+mdSug1
+  rotate: false
+  xy: 512, 21
+  size: 543, 734
+  orig: 543, 734
+  offset: 0, 0
+  index: -1
+mdSug2
+  rotate: false
+  xy: 2, 19
+  size: 508, 736
+  orig: 508, 736
+  offset: 0, 0
+  index: -1
+
+atlasGame2.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+BoXitDie1
+  rotate: false
+  xy: 620, 621
+  size: 367, 615
+  orig: 367, 615
+  offset: 0, 0
+  index: -1
+BoXitDie2
+  rotate: false
+  xy: 959, 1460
+  size: 438, 579
+  orig: 438, 579
+  offset: 0, 0
+  index: -1
+KienDie01
+  rotate: false
+  xy: 620, 376
+  size: 229, 243
+  orig: 229, 243
+  offset: 0, 0
+  index: -1
+SungDie2
+  rotate: false
+  xy: 1399, 1586
+  size: 346, 453
+  orig: 346, 453
+  offset: 0, 0
+  index: -1
+bomb
+  rotate: false
+  xy: 2, 2
+  size: 115, 159
+  orig: 115, 159
+  offset: 0, 0
+  index: -1
+mdDuo
+  rotate: false
+  xy: 2, 1238
+  size: 955, 801
+  orig: 955, 801
+  offset: 0, 0
+  index: -1
+mdTime
+  rotate: false
+  xy: 2, 163
+  size: 616, 1073
+  orig: 616, 1073
+  offset: 0, 0
+  index: -1

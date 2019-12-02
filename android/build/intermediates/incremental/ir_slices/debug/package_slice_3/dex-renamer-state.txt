@@ -1,0 +1,4 @@
+#Sat Nov 30 15:44:53 ICT 2019
+base.0=/Users/dungle/Desktop/libgdx/dietkien2/KilInsects/android/build/intermediates/transforms/dexMerger/debug/3
+path.0=classes.dex
+renamed.0=classes.dex
